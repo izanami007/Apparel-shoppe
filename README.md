@@ -1,0 +1,2 @@
+# Apparel-shoppe
+The Project was to develop an e-commerce website for Men &amp; Women clothing. The Front end was done in HTML &amp; Javascript while the back end was done in MySQL &amp; PHP. The project was challenging as i had to learn the once unfamiliar langauge i.e PHP in very short amount of time. As the project was for academic purposes, to meet the deadlines it had to be developed in very short duration.
